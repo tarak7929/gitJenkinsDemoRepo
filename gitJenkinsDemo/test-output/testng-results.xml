@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30015" started-at="2019-04-19T15:34:31Z" finished-at="2019-04-19T15:35:01Z">
+  <suite name="Default suite" duration-ms="22168" started-at="2019-04-19T16:06:58Z" finished-at="2019-04-19T16:07:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30015" started-at="2019-04-19T15:34:31Z" finished-at="2019-04-19T15:35:01Z">
+    <test name="Default test" duration-ms="22168" started-at="2019-04-19T16:06:58Z" finished-at="2019-04-19T16:07:20Z">
       <class name="com.testing.gitJenkinsDemoClass">
-        <test-method status="PASS" signature="gitJenkinsDemoTest()[pri:0, instance:com.testing.gitJenkinsDemoClass@25bbf683]" name="gitJenkinsDemoTest" duration-ms="29996" started-at="2019-04-19T15:34:31Z" finished-at="2019-04-19T15:35:01Z">
+        <test-method status="PASS" signature="gitJenkinsDemoTest()[pri:0, instance:com.testing.gitJenkinsDemoClass@25bbf683]" name="gitJenkinsDemoTest" duration-ms="22145" started-at="2019-04-19T16:06:58Z" finished-at="2019-04-19T16:07:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- gitJenkinsDemoTest -->
